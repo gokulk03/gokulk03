@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gokulk03
-- 👀 I’m interested in coding specifically saying competitive coding...
+- 👀 I’m interested in machine learning and Artificial Intelligence...
 - 🌱 I’m currently learning DSA..
 - 📫 reach me @gokulsrinivask2020@gmail.com.
 
